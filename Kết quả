@@ -1,0 +1,70 @@
+Quan nhan vien
+1. Nhap thong tin
+2. Xem thong tin
+Moi ban chon chuc nang:
+1
+Nhap so luong nhan vien 
+3
+Nhap ten nhan vien 
+Linh
+Nhap ma nhan vien 
+001
+Ngay thang nam sinh 
+20/10/2000
+Nhap so gio lam viec 
+72
+Nhap he so luong 
+1
+Nhap phu cap 
+500000
+Nhap ten nhan vien 
+Tuy
+Nhap ma nhan vien 
+002
+Ngay thang nam sinh 
+20/6/2000
+Nhap so gio lam viec 
+64
+Nhap he so luong 
+1
+Nhap phu cap 
+500000
+Nhap ten nhan vien 
+Kien
+Nhap ma nhan vien 
+003
+Ngay thang nam sinh 
+8/4/2000
+Nhap so gio lam viec 
+90
+Nhap he so luong 
+1
+Nhap phu cap 
+500000
+Quan nhan vien
+1. Nhap thong tin
+2. Xem thong tin
+Moi ban chon chuc nang:
+2
+Ma nhan vien la 001
+Ten nhan vien Linh
+Sinh ngay 20/10/2000
+Da lam viec trong 72.0 gio
+He so luong: 1.0
+Phu cap 500000.0
+Ma nhan vien la 002
+Ten nhan vien Tuy
+Sinh ngay 20/6/2000
+Da lam viec trong 64.0 gio
+He so luong: 1.0
+Phu cap 500000.0
+Ma nhan vien la 003
+Ten nhan vien Kien
+Sinh ngay 8/4/2000
+Da lam viec trong 90.0 gio
+He so luong: 1.0
+Phu cap 500000.0
+Quan nhan vien
+1. Nhap thong tin
+2. Xem thong tin
+Moi ban chon chuc nang:
